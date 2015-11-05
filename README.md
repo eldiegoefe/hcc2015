@@ -1,3 +1,5 @@
-# Apuntes y ejercicios del curso Herramientas Computacionales 2015 del IFLySiB.
+# Herramientas Computacionales 2015
+## IFLySiB (UNLP - Argentina)
 
-# Por Diego Fainstein
+# Apuntes y ejercicios del curso
+## Por Diego Fainstein
